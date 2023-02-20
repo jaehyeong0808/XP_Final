@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\XR전시회\XP_Project\Cave_XP_Collaboration1\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\XR전시회\XP_Project\Cave_XP_Collaboration1\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
